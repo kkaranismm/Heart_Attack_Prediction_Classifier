@@ -77,14 +77,6 @@ The dataset used in this project is derived from the Cleveland database and incl
 - Enhance the web interface with more detailed risk explanations and preventive recommendations
 - Collaborate with healthcare professionals for real-world validation and implementation
 
-## Contributors
-
-[List of contributors]
-
-## License
-
-[Specify the license]
-
 ## Acknowledgments
 
 - Cleveland Clinic Foundation for the heart disease dataset
